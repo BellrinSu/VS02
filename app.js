@@ -1,0 +1,1 @@
+console.log("App JS connected and updated with Live Server.");
